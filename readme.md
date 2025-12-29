@@ -85,7 +85,7 @@ Create an interactive Power BI dashboard to visualize agricultural data and deri
   - Regional patterns  
   - Productivity and impact indicators
 
-    ![Heatmap](assets\agriculture_dashboard.png)  
+    ![Dashboard](assets\agriculture_dashboard.png)  
 
 **Key takeaways:**
 - Strengthened dashboard design and layout thinking
