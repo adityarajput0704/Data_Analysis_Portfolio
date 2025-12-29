@@ -58,7 +58,7 @@ Analyze employee mental health data to uncover trends, patterns, and relationshi
   - Work interference  
   - Support systems and mental health outcomes  
 
-  ![Heatmap](assets\heatmap.png)
+  ![Heatmap](https://github.com/adityarajput0704/Data_Analysis_Portfolio/blob/main/assets/hist.png?raw=true)
 
 **Key takeaways:**
 - Developed a structured EDA workflow
@@ -85,7 +85,7 @@ Create an interactive Power BI dashboard to visualize agricultural data and deri
   - Regional patterns  
   - Productivity and impact indicators
 
-    ![Dashboard](D:\adityafiles\Internships\Imarticus\Imarticus_Projects\assets\agriculture_dashboard.png)  
+    ![Dashboard](https://github.com/adityarajput0704/Data_Analysis_Portfolio/blob/main/assets/agriculture_dashboard.png?raw=true)  
 
 **Key takeaways:**
 - Strengthened dashboard design and layout thinking
